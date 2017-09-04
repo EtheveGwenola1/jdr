@@ -1,0 +1,45 @@
+body{
+	background-color: #CE892E;
+}
+a{
+	margin: 5px;
+}
+
+h1{
+	font-family: fantasy;
+	font-style: italic;
+}
+
+p{
+	font-size: 25px;
+
+}
+
+img{
+	height: 250px;
+	width: 250px;
+}
+
+.container-fluid{
+	margin: 20px;
+}
+
+.container{
+}
+
+#description{
+
+	font-size: 15px;
+}
+
+#Email{
+	width: 200px;
+}
+
+#Password{
+	width: 200px;
+}
+
+#pseudo{
+	width: 200px;
+}

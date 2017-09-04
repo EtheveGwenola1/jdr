@@ -1,0 +1,74 @@
+General	
+Dungeon Walls	Masonry
+Dungeon Floor	Uneven Flagstone (difficult to run)
+Temperature	Average
+Illumination	Shadowy (phosphorescent fungus every 20 ft.)
+Corridors	
+a	Pit Trap (20', 2d6 damage)
+Wandering
+Monsters	
+1	2 x Shrieker, hunting for food
+2	13 x Giant Rat, consumed by disease and madness
+3	1 x Shrieker, scouting from another part of the dungeon
+4	7 x Giant Centipede, lost and desperate
+5	2 x Cockatrice, bloodied and fleeing a more powerful enemy
+6	2 x Shrieker, actively patrolling their territory
+Room #1	
+South Entry	Trapped and Unlocked Stone Door
+Ⓣ   Falling Block Trap (6d6 damage)
+Room Features	A tile labyrinth covers the floor, A fountain of water sits against the south wall
+Room #2	
+West Entry	Wooden Portcullis
+East Entry	Wooden Portcullis (stuck)
+South Entry	Stuck Good Wooden Door (slides to one side)
+Room Features	Various torture devices are scattered throughout the room, A rusted amulet lies in the north side of the room
+Room #3	
+East Entry	Stuck Simple Wooden Door
+→   Leads to room #6
+South Entry	Secret Locked Iron Door (wizard lock) (slides down)
+Ⓢ   The door is concealed behind a pile of skulls
+Room Features	A chute descends from the room into the next dungeon level down, A pile of broken glass lies in the north-west corner of the room
+Room #4	
+East Entry #1	Secret Stuck Iron Door
+Ⓢ   A bookcase and concealed door pivots smoothly
+East Entry #2	Stuck Simple Wooden Door
+South Entry	Archway
+Room Features	A fountain engraved with geometric patterns sits in the south-west corner of the room, The walls are covered with veins of green crystal
+Hidden Treasure	Locked Iron Chest (common lock)
+Banded Agate (10 gp), Blue Quartz (10 gp), Chrysoprase (50 gp), Deep Blue Spinel (500 gp), Golden Pearl (100 gp), Moonstone (50 gp), Peridot (50 gp), Star Rose Quartz (50 gp); hoard total 820 gp
+Room #5	
+West Entry	Stuck Simple Wooden Door
+South Entry	Archway
+→   Leads to room #6
+Room Features	A simple fireplace sits against the north wall, A pile of torn paper lies in the south-west corner of the room
+Room #6	
+North Entry #1	Unlocked Good Wooden Door
+North Entry #2	Archway
+→   Leads to room #5
+West Entry	Stuck Simple Wooden Door
+→   Leads to room #3
+East Entry #1	Unlocked Good Wooden Door
+East Entry #2	Trapped and Locked Good Wooden Door (superior lock, -20% to open)
+Ⓣ   False Trap
+South Entry	Trapped and Stuck Good Wooden Door
+Ⓣ   Poison Needle Trap (onset 1d4 rounds, save or 10 damage)
+→   Leads to room #9
+Room Features	A tapestry of a god of wealth hangs from the north wall, A metallic odor fills the room
+Room #7	
+North Entry	Stuck Simple Wooden Door
+→   Leads to room #8
+West Entry	Stuck Simple Wooden Door (slides up)
+Room Features	The sound of rushing water can be faintly heard near the north wall, A rusted breastplate lies in the south-west corner of the room
+Room #8	
+West Entry	Archway
+East Entry	Locked Good Wooden Door (common lock)
+South Entry	Stuck Simple Wooden Door
+→   Leads to room #7
+Room Features	Numerous pillars line the north wall, A wooden ladder rests against the east wall
+Room #9	
+North Entry	Trapped and Stuck Good Wooden Door
+Ⓣ   Poison Needle Trap (onset 1d4 rounds, save or 10 damage)
+→   Leads to room #6
+West Entry	Secret Stuck Strong Wooden Door
+Ⓢ   The door is concealed within an upright sarcophagus
+Room Features	A chute descends from the room into a midden chamber below, Someone has scrawled a diagram of a mechanical trap on the north wall

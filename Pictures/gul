@@ -1,0 +1,65 @@
+General	
+Dungeon Walls	Masonry
+Dungeon Floor	Uneven Flagstone (difficult to run)
+Temperature	Average
+Illumination	Dark (individual creatures may carry lights)
+Corridors	
+a	The scent of urine fills the corridor
+Room #1	
+South Entry	Trapped and Locked Strong Wooden Door (superior lock, -20% to open)
+Ⓣ   Blinding Gas Trap
+Room Features	A rope ascends to a balcony hanging from the east wall, An iron chandelier hangs from the ceiling in the west side of the room
+Room #2	
+West Entry	Wooden Portcullis
+East Entry	Trapped Iron Portcullis
+Ⓣ   Poison Gas Trap (onset 1d4 rounds, save or 50 damage)
+South Entry	Stuck Good Wooden Door (slides up)
+Room Features	Part of the ceiling has collapsed into the room, A circle of tall stones stands in the south side of the room
+Room #3	
+East Entry	Unlocked Simple Wooden Door
+→   Leads to room #6
+South Entry	Secret Stuck Iron Door
+Ⓢ   The door is concealed behind a statue of an elemental salamander, and opened by setting it aflame
+Room Features	Howling fills the room, Several pieces of rotten fruit are scattered throughout the room
+Room #4	
+East Entry #1	Secret Stuck Stone Door
+Ⓢ   The door is located near the ceiling and only four feet high
+East Entry #2	Stuck Good Wooden Door
+South Entry	Archway
+Room Features	A simple fireplace sits against the north wall, The ceiling is covered with bloodstains
+Room #5	
+West Entry	Stuck Simple Wooden Door
+South Entry	Archway
+→   Leads to room #6
+Room Features	A mural of ancient mythology covers the ceiling, An iron chandelier hangs from the ceiling in the south-west corner of the room
+Room #6	
+North Entry #1	Stuck Strong Wooden Door
+North Entry #2	Archway
+→   Leads to room #5
+West Entry	Unlocked Simple Wooden Door
+→   Leads to room #3
+East Entry #1	Unlocked Simple Wooden Door
+East Entry #2	Trapped and Stuck Iron Door
+Ⓣ   Sleep Gas Trap
+South Entry	Trapped and Unlocked Iron Door
+Ⓣ   Poison Gas Trap (onset immediate, save or 30 damage)
+→   Leads to room #9
+Room Features	A magical mirror on the west wall answers questions with lies and falsehoods, A sundered helm lies in the center of the room
+Room #7	
+North Entry	Unlocked Strong Wooden Door (slides down)
+→   Leads to room #8
+West Entry	Stuck Strong Wooden Door
+Room Features	The ceiling is covered with dripping stalactites, A pile of blood-soaked clothing lies in the north side of the room
+Room #8	
+West Entry	Archway
+East Entry	Locked Simple Wooden Door (common lock)
+South Entry	Unlocked Strong Wooden Door (slides down)
+→   Leads to room #7
+Room Features	Someone has scrawled "The Crimson Crusaders looted this place" on the east wall, Several pieces of rotten fruit are scattered throughout the room
+Room #9	
+North Entry	Trapped and Unlocked Iron Door
+Ⓣ   Poison Gas Trap (onset immediate, save or 30 damage)
+→   Leads to room #6
+West Entry	Secret Stuck Iron Door
+Ⓢ   The door is concealed within a mosaic of ghoulish carnage
+Room Features	Someone has scrawled "Abandon all hope" on the west wall, Several iron blobs are scattered throughout the room
