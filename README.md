@@ -1,6 +1,6 @@
 PROJET JDR
 
-VERSION : 0.0.0.1
+VERSION : 0.0.1
 Date de création : 02/09/2017
 Auteur: Gwénola ETHEVE
 
